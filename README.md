@@ -2,9 +2,9 @@ Hey! 🖖
 
 This is my repository with notes from my notebook and exercises requested for the course entitled "CS50x - Web Programming with Python and JavaScript" offered by the Harvard school.
 
-You can take it too, just click on this link. :) however, although it is fully available at <https://cs50.harvard.edu/x/2022>, to get your certificate you have to pay a certain amount. 
+You can take it too, just click on this link <https://cs50.harvard.edu/x/2022>. :) However, although it is fully available there, to get your certificate you have to pay a certain amount. 
 
-if you decide to do it too, contact me, we can solve our doubts together! 👊
+If you decide to do it too, contact me, we can solve our doubts together! 👊
 
 _
 
